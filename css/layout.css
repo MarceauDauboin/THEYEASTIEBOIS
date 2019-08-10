@@ -541,15 +541,23 @@ ul#nav li.current a { color: #F06000; }
    color: #696969; /* Lol godem*/
    margin-bottom: 12px;
 }
+.popup-modal .description-box p.price-time {
+	font: 16px/30px 'opensans-bold', sans-serif;
+   color: #111;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
 .popup-modal .description-box .categories {
    font: 16px/30px 'opensans-bold', sans-serif;
    color: #111;
-   text-transform: uppercase;
    letter-spacing: 2px;
-   display: block;
-   text-align: left;
    margin-top: 20px;
 }
+
+
 .popup-modal .description-box .categories i {
    margin-right: 8px;
 }
