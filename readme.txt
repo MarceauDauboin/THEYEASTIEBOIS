@@ -103,6 +103,7 @@ Icons:
 Stock Photos and Graphics:
  - UnSplash.com (https://unsplash.com/)
  - Morguefile.com (https://www.morguefile.com/)
+ - Pexels.com (https://www.pexels.com/)
 
 Javascript Files:
 
