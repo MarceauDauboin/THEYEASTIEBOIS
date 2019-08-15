@@ -26,9 +26,9 @@ e. Others
 /* a. Webfonts and Icon fonts
  ------------------------------------------------------------------ */
 
-@import url("fonts.css");
-@import url("fontello/css/fontello.css");
-@import url("font-awesome/css/font-awesome.min.css");
+ @import url("fonts.css");
+ @import url("fontello/css/fontello.css");
+ @import url("font-awesome/css/font-awesome.min.css");
 
 /* ------------------------------------------------------------------
 /* b. Reset
@@ -604,7 +604,7 @@ input[type="checkbox"] { display: inline; }
 --------------------------------------------------------------- */
 .row {
    width: 96%;
-   max-width: 1020px;
+   max-width: 1120px;
    margin: 0 auto;
 }
 .row .aboutSection{
