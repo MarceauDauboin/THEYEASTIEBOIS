@@ -213,7 +213,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #c2c2c2;
 }
 #about .profile-pic {
    position: relative;
@@ -872,13 +872,14 @@ call-to-action .button {
 }
 #contact p.lead {
    font: 18px/30px 'opensans-light', sans-serif;
+   color: #c2c2c2;
    padding-right: 0%;
 }
 
 #contact p.address {
    font: 16px/36px 'opensans-bold', sans-serif;
    padding-right: 3%;
-   color: #999999;
+   color: #dbdbdb;
 }
 
 #contact p span {
