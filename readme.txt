@@ -1,11 +1,11 @@
--
+
 ==================================================================================================
 
 CEEVEE is a clean, modern, fully responsive site template for your
-resume and portfolio! With this template, you can easily introduce
+resume and products. With this template, you can easily introduce
 yourself and showcase your works to future clients and employers. Also,
 it is flexible and easy to customize so you can even use this template as a 
-creative, business or portfolio site for your company.
+creative, business or products site for your company.
 
 ==================================================================================================
 
@@ -103,7 +103,6 @@ Icons:
 Stock Photos and Graphics:
  - UnSplash.com (https://unsplash.com/)
  - Morguefile.com (https://www.morguefile.com/)
- - Pexels.com (https://www.pexels.com/)
 
 Javascript Files:
 
