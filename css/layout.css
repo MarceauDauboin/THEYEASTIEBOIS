@@ -27,7 +27,7 @@ body { background: #0f0f0f; }
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
-
+/*
 header {
    position: relative;
    height: 800px;
@@ -39,6 +39,35 @@ header {
    text-align: center;
    overflow: hidden;
 }
+*/
+header {
+   position: relative;
+
+   height: 800px;
+   min-height: 969px;
+   width: 100%;
+   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
+   text-align: center;
+   overflow: hidden;
+}
+/*FOR PHONE ONLY- drops min height to 730px*/
+@media all and (max-width: 600px)
+{
+  header {
+     position: relative;
+     height: 800px;
+     min-height: 730px;
+     width: 100%;
+     background: #161415 url(../images/header-background.jpg) no-repeat top center;
+     background-size: cover !important;
+    -webkit-background-size: cover !important;
+     text-align: center;
+     overflow: hidden;
+      }
+}
+
 
 /* vertically center banner section */
 header:before {
